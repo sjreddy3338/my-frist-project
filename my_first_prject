@@ -1,2 +1,7 @@
 hello this is my first project
+<<<<<<< HEAD
 the fourth line
+=======
+second line
+third line
+>>>>>>> ae9fe5a22ac86b8a44d8899ea510e9f7629a34bf
